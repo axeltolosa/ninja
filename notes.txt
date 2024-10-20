@@ -32,3 +32,6 @@ merge
 to merge we need to be in the branch you want
 git merge name and is done
 
+git push paste from GitHub and name repository
+git remote add name urlgithub give the alias for url
+
