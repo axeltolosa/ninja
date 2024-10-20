@@ -23,5 +23,12 @@ git reset id
 git reset id --hard is not going to retain changes permanent
 git branch "name" work in a new branch
 Switched to branch 'master' "get back to the main"
+git checkout "name"  switched to branch name
 git branch -D "name of branch" will Deleted the branch
 git branch -a "show the branches and what is checkout"
+git checkout -b name create and switch to the new branch
+
+merge
+to merge we need to be in the branch you want
+git merge name and is done
+
