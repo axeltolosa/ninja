@@ -1,22 +1,8 @@
 //to go to the repository 
 cd //copy and past the path
-git init //"initialize new repository in cd"
-touch // create file "txt.html. etc
+git init //"start the repo"
+touch //make new folder 
 
 to commit the change in any file we need to first
 git status
 git add "name of the file" you want the changes.
-git rm --cached name of the file remove the file from add
-to add a banch of files 
-git add . //add all the files 
-git commit -m value give you some information of the file
-git log give you more general info.
-git log --oneline  give more concentrated info
-
-git checkout paste the id get back in time
-git revert id the change can be  put in the first place.
-git reset id  
-git branch "name" work in a new branch
-Switched to branch 'master' "get back to the main"
-git branch -D "name of branch" will Deleted the branch
-git branch -a "show the branches and what is checkout"
