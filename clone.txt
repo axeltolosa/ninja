@@ -1,0 +1,11 @@
+copy url of this clone 
+go to git blash
+cd .. to upper level
+git clone paste url
+cd 1clone to be inside the repo and now is in the pc
+then the same if want ot change something
+git add .
+git commit -m " clone guide"
+git remote -v to check the url we don't need to pasted again
+then only
+pit push ninja12 master
