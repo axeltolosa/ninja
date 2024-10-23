@@ -34,4 +34,4 @@ git merge name and is done
 
 git push paste from GitHub and name repository
 git remote add name urlgithub give the alias for url
-
+git pull ninja12 master name of the branch and repository. 
