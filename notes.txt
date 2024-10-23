@@ -33,5 +33,7 @@ to merge we need to be in the branch you want
 git merge name and is done
 
 git push paste from GitHub and name repository
+git push work the same way as git pull just pc to github
 git remote add name urlgithub give the alias for url
 git pull ninja12 master name of the branch and repository. 
+
